@@ -78,7 +78,7 @@
     "validate.js": "^0.13.1"
   },
   "devDependencies": {
-    "@types/googlemaps": "3.30.18",
+    "@types/googlemaps": "3.43.3",
     "@types/markerclustererplus": "2.1.33",
     "@types/react": "^19.0.10",
     "husky": "^9.1.1",
