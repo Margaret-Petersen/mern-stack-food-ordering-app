@@ -44,7 +44,7 @@
     "@react-navigation/native-stack": "^7.2.0",
     "@sentry/react-native": "6.5.0",
     "@use-expo/font": "^2.0.0",
-    "expo": "~52.0.27",
+    "expo": "~54.0.25",
     "expo-av": "~14.0.6",
     "expo-constants": "~16.0.2",
     "expo-device": "~6.0.2",
